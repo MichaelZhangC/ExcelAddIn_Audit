@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns" label="ASRTookit">
+                <group id="group1" label="NumFormat">
+                    <button id="button1" onAction="button1_Click" label="格式1" size="large" />
+                    <button id="button2" onAction="button2_Click_1" label="格式2" size="large" />
+                </group>
+                <group id="group2" label="常用数据操作">
+                    <button id="strongnoempty" onAction="strongnoempty_Click" label="强力去空" size="large" />
+                    <button id="reverse" onAction="button2_Click" label="负号" size="large" />
+                    <button id="Font" onAction="Font_Click" label="YaHei" size="large" />
+                    <button id="noEmpty" onAction="button3_Click" label="去空" size="large" />
+                </group>
+            </tab>
+            <tab id="tab2" />
+        </tabs>
+    </ribbon>
+</customUI>
