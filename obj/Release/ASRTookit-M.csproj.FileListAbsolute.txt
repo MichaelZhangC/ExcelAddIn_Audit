@@ -1,0 +1,14 @@
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Release\ASRTookit-M.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Release\ASRTookit-M.pdb
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Release\ASRTookit-M.dll.manifest
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Release\ASRTookit-M.vsto
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.csproj.AssemblyReference.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit_M.Properties.Resources.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit_M.Ribbon1.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit_M.UserControl1.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.csproj.GenerateResource.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.csproj.CoreCompileInputs.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.csproj.CopyComplete
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Release\ASRTookit-M.pdb
