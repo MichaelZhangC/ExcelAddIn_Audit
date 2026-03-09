@@ -1,0 +1,14 @@
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Debug\ASRTookit-M.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Debug\ASRTookit-M.pdb
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Debug\ASRTookit-M.dll.manifest
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Debug\ASRTookit-M.vsto
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.csproj.AssemblyReference.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit_M.Properties.Resources.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit_M.Ribbon1.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit_M.UserControl1.resources
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.csproj.GenerateResource.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.csproj.CoreCompileInputs.cache
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.csproj.CopyComplete
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.dll
+C:\Users\zhangxunkai\source\repos\ASRTookit-M\ASRTookit-M\obj\Debug\ASRTookit-M.pdb
